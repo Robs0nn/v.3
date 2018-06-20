@@ -1,0 +1,16 @@
+﻿@model SnacesOficina_v2.Models.Usuario
+< link href = "~/Content/LoginEdit.css" rel = "stylesheet" />
+<form class="login-form">
+    <p class="login-text">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-lock fa-stack-1x"></i>
+        </span>
+    </p>
+    @Html.EditorFor(model => model.Login)
+    @Html.EditorFor(model => model.Senha)
+    <input type="submit" name="Login" value="Login" class="login-submit" />
+</form>
+<a href="#" class="login-forgot-pass">forgot password?</a>
+<div class="underlay-photo"></div>
+<div class="underlay-black"></div> 

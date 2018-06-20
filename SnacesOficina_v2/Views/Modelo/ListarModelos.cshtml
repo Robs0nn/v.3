@@ -1,0 +1,43 @@
+﻿@using X.PagedList.Mvc;
+@model X.PagedList.PagedList<SnacesOficina_v2.Models.ModeloModelo>
+
+@{
+    ViewBag.Title = "ListarModelos";
+}
+
+<h2>ListarModelos</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Descricao
+        </th>
+        <th>
+            ID_Marca
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID_Marca)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+@Html.PagedListPager(Model,
+                     pagina => Url.Action("ListarModelos", new { pagina }))

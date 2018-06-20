@@ -1,0 +1,42 @@
+﻿<link href="~/Content/style.css" rel="stylesheet" />
+
+<ul>
+    <li><a>@Html.ActionLink("Pagina Inicial", "Home", "Home")</a></li>
+    <li>
+        <a>Ordem de Serviço</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastrar Ordem Serviço", "CadastroOrdemServico", "OrdemServico")</a></li>
+            <li><a>@Html.ActionLink("Listar ordem Serviço", "ListarOrdemServico", "OrdemServico")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Veículos</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastar Veículo", "CadastroVeiculo", "Veiculo")</a></li>
+            <li><a> @Html.ActionLink("Listar Veículos", "ListarVeiculos", "Veiculo")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Clientes</a>
+        <ul>
+            
+            <li><a> @Html.ActionLink("Listar Clientes", "ListarPessoas", "Pessoa")</a></li>
+        </ul>
+    </li>
+  
+</ul>
+<br />
+<div>
+    <br />
+    <form method="post">
+        <fieldset>
+            <legend>Dados do Cliente</legend>
+            <p>Nome: <input class="form-control" type="text" name="nome" /></p>
+            <p>CPF/CNPJ:<input class="form-control" type="text" name="cpf_cnpj" /></p>
+            <p>E-Mail: <input class="form-control" type="email" name="email" /></p>
+            <p>Endereço: <input class="form-control" type="text" name="Endereco" /></p>
+
+        </fieldset>
+        <input class="form-control" type="submit" value="salvar" />
+    </form>
+</div>

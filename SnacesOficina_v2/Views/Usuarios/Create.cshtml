@@ -1,0 +1,30 @@
+﻿@model SnacesOficina_v2.Models.Usuario
+@{ Layout = null;}
+
+
+<link href="~/Content/Login.css" rel="stylesheet" />
+
+<ul>
+
+    <li><a>Ordem de Serviço</a></li>
+    <li><a>Veículos</a></li>
+    <li><a>Clientes</a> </li>
+    <li><a>Usuários</a></li>
+</ul>
+
+<div class="body"></div>
+<div class="grad"></div>
+<div class="header">
+    <p><div>Work<span>Shop</span></div></p>
+</div>
+<br>
+<div class="login">
+    <form>
+        <label>Entre Com Seu E-Mail</label>
+        @Html.EditorFor(model => model.Login)<br />
+        <label>Digite Sua Senha</label><br />
+        @Html.EditorFor(model => model.Senha)<br />
+        <input type="submit" value="Entrar"><br />
+        @Html.ActionLink("Cadastrar-se", "CadastroLogin")
+    </form>
+</div>

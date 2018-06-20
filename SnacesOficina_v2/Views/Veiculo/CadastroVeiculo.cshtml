@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "CadastroVeiculo";
+}
+<link href="~/Content/style.css" rel="stylesheet" />
+
+<script>
+    function buscarModelos() {
+        var IdMarca = document.getElementById("ModeloMarca").value;
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/Veiculo/ListaModelo/ " + IdMarca);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState == 4) {
+                if (xhr.status == 200) {
+                    var select = document.getElementById("Id_modelo");
+                    console.log(xhr.responseText);
+                    var modelos = JSON.parse(xhr.responseText);
+                    select.innerText = null;
+                    for (var i = 0; i < modelos.length; i++) {
+                        select.innerHTML += "<option value = " + modelos[i].ID + ">" + modelos[i].Descricao + "</option>"
+                    }
+
+                    //hora.innerHTML += "<option value = ""> "+xhr.responseText[i] +"</option>"
+                }
+            }
+        }
+        xhr.send();
+    }
+</script>
+
+<ul>
+    <li><a> @Html.ActionLink("Pagina Inicial", "Home", "Home")</a></li>
+    <li>
+        <a>Ordem de Serviço</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastrar Ordem Serviço", "CadastroOrdemServico", "OrdemServico")</a></li>
+            <li><a>@Html.ActionLink("Listar ordem Serviço", "ListarOrdemServico", "OrdemServico")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Veículos</a>
+        <ul>
+            
+            <li><a> @Html.ActionLink("Listar Veículos", "ListarVeiculos", "Veiculo")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Clientes</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastar Cliente", "CadastroPessoa", "Pessoa")</a></li>
+            <li><a>Listar Clientes</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Usuários</a>
+        <ul>
+            <li><a>Cadastrar Usuário</a></li>
+            <li><a>Listar Usuários</a></li>
+            <li><a>Deletar Usuário</a></li>
+        </ul>
+    </li>
+</ul>
+<br />
+<div>
+    <form method="post">
+    <fieldset >
+        <legend>Dados do Veículo</legend>
+        <p>Placa: <input class="form-control" type="text" name="Placa" /></p>
+        <p>Chassi:<input class="form-control" type="text" name="Chassi" /></p>
+        <p onchange="buscarModelos()">Marca: @Html.DropDownList("ModeloMarca", string.Empty)</p>
+        <p>Modelo:<select class="form-control" name="Id_modelo" id="Id_modelo"></select></p>
+        <p>Ano de Fabricação: <input class="form-control" type="date" name="AnoFabricacao" id="AnoFabricacao" /></p>
+        <p>Ano do Modelo: <input class="form-control" type="date" name="AnoModelo" id="AnoModelo" /></p>
+    </fieldset>
+    <input type="submit" value="salvar" class="form-control" />
+    </form>
+ </div>

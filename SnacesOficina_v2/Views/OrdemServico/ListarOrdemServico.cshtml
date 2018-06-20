@@ -1,0 +1,130 @@
+﻿@using X.PagedList.Mvc;
+@model X.PagedList.PagedList<SnacesOficina_v2.Models.ModeloOrdemServico>
+<link href="~/Content/style.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "ListarOrdemServico";
+}
+<ul>
+    <li><a>@Html.ActionLink("Pagina Inicial", "Home", "Home")</a></li>
+    <li>
+        <a>Oredem de Serviço</a>
+        <ul>
+
+            <li><a>@Html.ActionLink("Cadastrar Ordem Serviço", "CadastroOrdemServico", "OrdemServico")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Veículos</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastar Veículo", "CadastroVeiculo", "Veiculo")</a></li>
+            <li><a> @Html.ActionLink("Listar Veículos", "ListarVeiculos", "Veiculo")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Clientes</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastar Cliente", "CadastroPessoa", "Pessoa")</a></li>
+            <li><a> @Html.ActionLink("Listar Clientes", "ListarPessoas", "Pessoa")</a></li>
+        </ul>
+    </li>
+
+</ul>
+<br />
+
+
+
+
+<br /><P>
+    <table class="table">
+        <tr>
+            <th>
+                Número
+            </th>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Consultor
+            </th>
+            <th>
+                Situação
+            </th>
+            <th>
+                Tipo OS
+            </th>
+            <th>
+                Placa
+            </th>
+            <th>
+                Quilometragem
+            </th>
+
+            <th>
+                Abertura
+            </th>
+            <th>
+                Previsão de  Entrega
+            </th>
+            <th>
+                Entrega
+            </th>
+            <th>
+                Reclamação
+            </th>
+            <th>
+                Forma de Pagamento
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Numero)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cliente.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Consultor.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Situacao.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoOs.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Veiculo.Placa)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quilometragem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Abertura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrevisaoEntrega)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Entrega)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Reclamacao.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FormaPagamento.Descricao)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarOs", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</P>
+@Html.PagedListPager(Model,
+                     pagina => Url.Action("ListarOrdemServico", new { pagina }))

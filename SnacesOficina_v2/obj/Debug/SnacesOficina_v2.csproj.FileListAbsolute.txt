@@ -1,0 +1,336 @@
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\SnacesOficina_v2.dll.config
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\SnacesOficina_v2.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\SnacesOficina_v2.pdb
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\csc.exe
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\csc.exe.config
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\csc.rsp
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\csi.exe
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\csi.exe.config
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\csi.rsp
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.AppContext.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Console.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\vbc.exe
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\vbc.exe.config
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\vbc.rsp
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\MySql.Data.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Helpers.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Mvc.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Razor.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Webpages.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\Google.Protobuf.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\MySql.Data.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Razor.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Webpages.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Helpers.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\System.Web.Mvc.xml
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CopyComplete
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.dll
+C:\Users\Robson\Desktop\Sances.Oficina01\projeto v2\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.pdb
+H:\SnacesOficina_v2\bin\SnacesOficina_v2.dll.config
+H:\SnacesOficina_v2\bin\SnacesOficina_v2.dll
+H:\SnacesOficina_v2\bin\SnacesOficina_v2.pdb
+H:\SnacesOficina_v2\bin\roslyn\csc.exe
+H:\SnacesOficina_v2\bin\roslyn\csc.exe.config
+H:\SnacesOficina_v2\bin\roslyn\csc.rsp
+H:\SnacesOficina_v2\bin\roslyn\csi.exe
+H:\SnacesOficina_v2\bin\roslyn\csi.exe.config
+H:\SnacesOficina_v2\bin\roslyn\csi.rsp
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\SnacesOficina_v2\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\SnacesOficina_v2\bin\roslyn\System.AppContext.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Collections.Immutable.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Console.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Diagnostics.Process.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\SnacesOficina_v2\bin\roslyn\System.IO.Compression.dll
+H:\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.dll
+H:\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\SnacesOficina_v2\bin\roslyn\System.IO.Pipes.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Reflection.Metadata.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.AccessControl.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.Claims.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Security.Principal.Windows.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Threading.Thread.dll
+H:\SnacesOficina_v2\bin\roslyn\System.ValueTuple.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Xml.XmlDocument.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.dll
+H:\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\SnacesOficina_v2\bin\roslyn\vbc.exe
+H:\SnacesOficina_v2\bin\roslyn\vbc.exe.config
+H:\SnacesOficina_v2\bin\roslyn\vbc.rsp
+H:\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe
+H:\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe.config
+H:\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\SnacesOficina_v2\bin\Microsoft.Web.Infrastructure.dll
+H:\SnacesOficina_v2\bin\MySql.Data.dll
+H:\SnacesOficina_v2\bin\System.Web.Helpers.dll
+H:\SnacesOficina_v2\bin\System.Web.Mvc.dll
+H:\SnacesOficina_v2\bin\System.Web.Razor.dll
+H:\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.dll
+H:\SnacesOficina_v2\bin\System.Web.Webpages.dll
+H:\SnacesOficina_v2\bin\System.Web.Webpages.Razor.dll
+H:\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\SnacesOficina_v2\bin\MySql.Data.xml
+H:\SnacesOficina_v2\bin\System.Web.Razor.xml
+H:\SnacesOficina_v2\bin\System.Web.Webpages.xml
+H:\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.xml
+H:\SnacesOficina_v2\bin\System.Web.Webpages.Razor.xml
+H:\SnacesOficina_v2\bin\System.Web.Helpers.xml
+H:\SnacesOficina_v2\bin\System.Web.Mvc.xml
+H:\SnacesOficina_v2\bin\pt-br\System.Web.Razor.resources.dll
+H:\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.resources.dll
+H:\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+H:\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+H:\SnacesOficina_v2\bin\pt-br\System.Web.Helpers.resources.dll
+H:\SnacesOficina_v2\bin\pt-br\System.Web.Mvc.resources.dll
+H:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csprojResolveAssemblyReference.cache
+H:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CoreCompileInputs.cache
+H:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CopyComplete
+H:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.dll
+H:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.pdb
+J:\SnacesOficina_v2\bin\SnacesOficina_v2.dll.config
+J:\SnacesOficina_v2\bin\SnacesOficina_v2.dll
+J:\SnacesOficina_v2\bin\SnacesOficina_v2.pdb
+J:\SnacesOficina_v2\bin\roslyn\csc.exe
+J:\SnacesOficina_v2\bin\roslyn\csc.exe.config
+J:\SnacesOficina_v2\bin\roslyn\csc.rsp
+J:\SnacesOficina_v2\bin\roslyn\csi.exe
+J:\SnacesOficina_v2\bin\roslyn\csi.exe.config
+J:\SnacesOficina_v2\bin\roslyn\csi.rsp
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\SnacesOficina_v2\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\SnacesOficina_v2\bin\roslyn\System.AppContext.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Collections.Immutable.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Console.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Diagnostics.Process.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\SnacesOficina_v2\bin\roslyn\System.IO.Compression.dll
+J:\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.dll
+J:\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\SnacesOficina_v2\bin\roslyn\System.IO.Pipes.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Reflection.Metadata.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.AccessControl.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.Claims.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Security.Principal.Windows.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Threading.Thread.dll
+J:\SnacesOficina_v2\bin\roslyn\System.ValueTuple.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Xml.XmlDocument.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.dll
+J:\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\SnacesOficina_v2\bin\roslyn\vbc.exe
+J:\SnacesOficina_v2\bin\roslyn\vbc.exe.config
+J:\SnacesOficina_v2\bin\roslyn\vbc.rsp
+J:\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe
+J:\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe.config
+J:\SnacesOficina_v2\bin\EntityFramework.dll
+J:\SnacesOficina_v2\bin\EntityFramework.SqlServer.dll
+J:\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\SnacesOficina_v2\bin\Microsoft.Web.Infrastructure.dll
+J:\SnacesOficina_v2\bin\MySql.Data.dll
+J:\SnacesOficina_v2\bin\System.Web.Helpers.dll
+J:\SnacesOficina_v2\bin\System.Web.Mvc.dll
+J:\SnacesOficina_v2\bin\System.Web.Razor.dll
+J:\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.dll
+J:\SnacesOficina_v2\bin\System.Web.Webpages.dll
+J:\SnacesOficina_v2\bin\System.Web.Webpages.Razor.dll
+J:\SnacesOficina_v2\bin\Google.Protobuf.dll
+J:\SnacesOficina_v2\bin\EntityFramework.xml
+J:\SnacesOficina_v2\bin\EntityFramework.SqlServer.xml
+J:\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\SnacesOficina_v2\bin\MySql.Data.xml
+J:\SnacesOficina_v2\bin\System.Web.Razor.xml
+J:\SnacesOficina_v2\bin\System.Web.Webpages.xml
+J:\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.xml
+J:\SnacesOficina_v2\bin\System.Web.Webpages.Razor.xml
+J:\SnacesOficina_v2\bin\System.Web.Helpers.xml
+J:\SnacesOficina_v2\bin\System.Web.Mvc.xml
+J:\SnacesOficina_v2\bin\pt-br\System.Web.Razor.resources.dll
+J:\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.resources.dll
+J:\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+J:\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+J:\SnacesOficina_v2\bin\pt-br\System.Web.Helpers.resources.dll
+J:\SnacesOficina_v2\bin\pt-br\System.Web.Mvc.resources.dll
+J:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csprojResolveAssemblyReference.cache
+J:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CoreCompileInputs.cache
+J:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CopyComplete
+J:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.dll
+J:\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.pdb
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\SnacesOficina_v2.dll.config
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\SnacesOficina_v2.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\SnacesOficina_v2.pdb
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\csc.exe
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\csc.exe.config
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\csc.rsp
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\csi.exe
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\csi.exe.config
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\csi.rsp
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.AppContext.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Console.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\vbc.exe
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\vbc.exe.config
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\vbc.rsp
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\EntityFramework.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\MySql.Data.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Helpers.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Mvc.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Razor.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Webpages.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\EntityFramework.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\MySql.Data.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Razor.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Webpages.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Helpers.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Mvc.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.csproj.CopyComplete
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\obj\Debug\SnacesOficina_v2.pdb
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\Newtonsoft.Json.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Net.Http.Formatting.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Http.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Http.WebHost.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\Newtonsoft.Json.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Net.Http.Formatting.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Http.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\System.Web.Http.WebHost.xml
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\X.PagedList.dll
+C:\Users\Robson\Desktop\sances v.3\SnacesOficina_v2\bin\X.PagedList.Mvc.dll

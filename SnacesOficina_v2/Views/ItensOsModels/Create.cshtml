@@ -1,0 +1,147 @@
+﻿@model SnacesOficina_v2.Models.ItensOsModels
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<script>
+    let itens;
+    function buscarItens() {
+        //var IdMarca = document.getElementById("ModeloMarca").value;
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/ItensOsModels/ListarItens/ "); //+ IdMarca);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState == 4) {
+                if (xhr.status == 200) {
+                    var select = document.getElementById("Itens");
+                    console.log(xhr.responseText);
+                    itens = JSON.parse(xhr.responseText);
+                    select.innerText = null;
+                    for (var i = 0; i < itens.length; i++) {
+                        select.innerHTML += "<option value = " + itens[i].Id + ">" + itens[i].Descricao + "</option>"
+                    }
+
+                    //hora.innerHTML += "<option value = ""> "+xhr.responseText[i] +"</option>"
+                }
+            }
+        }
+        xhr.send();
+    }
+    function buscaValor(index, num) {
+        document.getElementById('Preco' + num).value = itens[index].Preco;
+    }
+</script>
+
+<script type="text/javascript">
+    var nItem = 1;
+    var Itens = 0;
+    function deleteRow(row) {
+        var i = row.parentNode.parentNode.rowIndex;
+        document.getElementById('tabelaItem').deleteRow(i);
+    }
+
+    function insRow() {
+        var x = document.getElementById('tabelaItem').insertRow(1);
+        //  var c1 = x.insertCell(0);
+        x.innerHTML = " <tr>" +
+            "   <td align='center'>" + nItem + "</td>" +
+            " <td><select onchange='buscaValor(this.selectedIndex, " + nItem + ")' id='Itens' name='Itens'></select></td> " +
+            " <td><input onkeyup='calcula(" + nItem + ")' id='Preco" + nItem + "' value=' ' size=15 name='Preco' /></td> " +
+            " <td><input onkeyup='calcula(" + nItem + ")' id='qtdItem" + nItem + "' value=' ' size=15 name='qtdItem' /></td> " +
+            " <td><input size=15 id='somaItem" + nItem + "' readonly='readonly' /></td > " +
+            " <td><input type='button' id='delButton' value='Excluir Item' onclick='deleteRow(this)' /></td>  " +
+            "    </tr>";
+        nItem++;
+        buscarItens();
+    }
+
+    function calcula(num) {
+        document.getElementById('somaItem' + num).value = document.getElementById('Preco' + num).value * document.getElementById('qtdItem' + num).value;
+    }
+</script>
+
+@* Serializar o formulario apra enviar ao BD *@
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+        function enviar() {
+        var dados = $("form").serializeArray();
+        console.log($("form").serializeArray() );
+        $.ajax({
+            url: '/ItensOsModels/InserirItens',
+            type: 'POST',
+            dataType: 'json',
+            data: dados,
+            success: function (data, textStatus, xhr) {
+            console.log(data);
+        },
+            error: function (xhr, textStatus, errorThrown) {
+            console.log(textStatus);
+            }
+        });
+            
+    }
+</script>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>ItensOsModels</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.IdOs, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("ListaOS", string.Empty)
+            @Html.ValidationMessageFor(model => model.IdOs, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @*@Html.LabelFor(model => model.idItem, htmlAttributes: new { @class = "control-label col-md-2" })*@
+        <div class="col-md-10">
+            
+                <input type="button" id="addItem" value="Incluir Item" onclick="insRow()" /><br /><br />
+                <table id="tabelaItem" border="1">
+                     
+                        <tr>
+                            <td style="background-color:lightgrey" align="center">No.</td>
+                            <td style="background-color:lightgrey" align="center">Item</td>
+                            <td style="background-color:lightgrey" align="center">Valor R$</td>
+                            <td style="background-color:lightgrey" align="center">Quantidade</td>
+                            <td style="background-color:lightgrey" align="center">Total do Item</td>
+                       </tr>
+                        
+                    
+                    @*<tr>
+                        <td>1</td>
+                        @Html.DropDownList("ListaItens", string.Empty)
+                        <td><input size=25 type="text" id="latbox" readonly="readonly" /></td>
+                        <td><input size=25 type="text" id="lngbox" readonly="readonly" /></td>
+                        <td><input type="button" id="delPOIbutton" value="Exclui Item" onclick="deleteRow(this)" /></td>
+                        <td><input type="button" id="addmorePOIbutton" value="Novo Item" onclick="insRow()" /></td>
+                    </tr>*@
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" onclick="enviar()" value="Salvar O.S" class="btn btn-default" />
+        </div>
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Cadastrar-se", "CadastroLogin", "Usuarios")
+</div>

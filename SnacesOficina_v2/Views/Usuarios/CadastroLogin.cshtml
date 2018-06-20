@@ -1,0 +1,51 @@
+﻿@model SnacesOficina_v2.Models.Usuario
+
+@{
+    ViewBag.Title = "CadastroLogin";
+}
+<link href="~/Content/style.css" rel="stylesheet" />
+
+<ul>
+    
+    <li><a>Ordem de Serviço</a></li>
+    <li><a>Veículos</a></li>
+    <li><a>Clientes</a> </li>
+    <li><a>Usuários</a></li>
+</ul>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+   <br /> <div class="form-horizontal">
+      <br />
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Login, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Login, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Login, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @*<input type="submit" value="Entrar" class="btn btn-default" />*@
+                <ul>
+                    <li><a>@Html.ActionLink("Entrar", "Home", "Home")</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}
+
+

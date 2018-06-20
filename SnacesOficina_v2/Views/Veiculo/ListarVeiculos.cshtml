@@ -1,0 +1,59 @@
+﻿@*@model IEnumerable<SnacesOficina_v2.Models.ModeloVeiculo>*@
+<link href="~/Content/style.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "ListarVeiculos";
+}
+@using X.PagedList.Mvc;
+@model X.PagedList.PagedList<SnacesOficina_v2.Models.ModeloVeiculo>
+
+<ul>
+    <li><a> @Html.ActionLink("Pagina Inicial", "Home", "Home")</a></li>
+    <li><a> @Html.ActionLink("Cadastar Veículo", "CadastroVeiculo", "Veiculo")</a></li>
+</ul><br />
+
+<br />
+
+
+
+<p>
+    <table class="table">
+        <tr>
+            <th>
+                Placa
+            </th>
+            <th>
+               Chassi
+            </th>
+            <th>
+               AnoFabricacao
+            </th>
+            <th>
+               AnoModelo
+            </th>
+            <th></th>
+        </tr>
+</p>
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Placa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Chassi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AnoFabricacao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AnoModelo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

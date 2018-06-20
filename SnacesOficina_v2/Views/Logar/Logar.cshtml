@@ -1,0 +1,26 @@
+﻿@model SnacesOficina_v2.Models.Logar
+@{ Layout = null;}
+<link href="~/Content/Login.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "Logar";
+}
+@Html.BeginForm()
+@Html.AntiForgeryToken()
+
+<div class="body"></div>
+<div class="grad"></div>
+<div class="header">
+    <p><div>Work<span>Shop</span></div></p>
+</div>
+<br>
+<div class="login">
+
+    <label>Entre Com Seu E-Mail</label>
+    @Html.EditorFor(model => model.Login)<br />
+    <label>Digite Sua Senha</label><br />
+    @Html.EditorFor(model => model.Senha)<br />
+    <input type="submit" value="Entrar"><br />
+    @Html.ActionLink("Cadastrar-se", "CadastroLogar")
+
+</div>
+

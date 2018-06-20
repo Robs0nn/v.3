@@ -1,0 +1,39 @@
+﻿@{ Layout = null;}
+<link href="~/Content/style.css" rel="stylesheet" />
+<ul>
+    <li><a>Home</a></li>
+    <li>
+        <a>Ordem de Serviço</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastrar Ordem Serviço", "CadastroOrdemServico", "OrdemServico")</a></li>
+            <li><a>@Html.ActionLink("Listar ordem Serviço", "ListarOrdemServico", "OrdemServico")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Veículos</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastar Veículo", "CadastroVeiculo", "Veiculo")</a></li>
+            <li><a> @Html.ActionLink("Listar Veículos", "ListarVeiculos", "Veiculo")</a></li>
+            <li><a> @Html.ActionLink("Listar Marcas", "ListarMarcas", "Marca")</a></li>
+            <li><a> @Html.ActionLink("Listar Modelos", "ListarModelos", "Modelo")</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Clientes</a>
+        <ul>
+            <li><a> @Html.ActionLink("Cadastar Cliente", "CadastroPessoa", "Pessoa")</a></li>
+            <li><a>Listar Clientes</a></li>
+        </ul>
+    </li>
+    <li>
+        <a>Usuários</a>
+        <ul>
+            <li><a>Cadastrar Usuário</a></li>
+            <li><a>Listar Usuários</a></li>
+            <li><a>Deletar Usuário</a></li>
+        </ul>
+    </li>
+</ul>
+
+
+

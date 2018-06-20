@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "CadastroFormaPagamento";
+}
+
+<h2>Forma De Pagamento</h2>
+
+<form method="post">
+    <fieldset>
+     <p>Condição de Pagamento: @Html.DropDownList("ModeloFormaPagamento", string.Empty)</p>   
+    </fieldset>
+    <input type="submit" name="salvar" />
+</form>
+
